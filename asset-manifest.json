@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/task-manager/static/css/main.92054059.css",
-    "main.js": "/task-manager/static/js/main.d9bd717a.js",
-    "static/js/453.a53b11f0.chunk.js": "/task-manager/static/js/453.a53b11f0.chunk.js",
-    "index.html": "/task-manager/index.html",
-    "main.92054059.css.map": "/task-manager/static/css/main.92054059.css.map",
-    "main.d9bd717a.js.map": "/task-manager/static/js/main.d9bd717a.js.map",
-    "453.a53b11f0.chunk.js.map": "/task-manager/static/js/453.a53b11f0.chunk.js.map"
+    "main.css": "/MedBenDakkoum/Task-Manager/static/css/main.92054059.css",
+    "main.js": "/MedBenDakkoum/Task-Manager/static/js/main.5d080d46.js",
+    "static/js/453.a53b11f0.chunk.js": "/MedBenDakkoum/Task-Manager/static/js/453.a53b11f0.chunk.js",
+    "index.html": "/MedBenDakkoum/Task-Manager/index.html",
+    "main.92054059.css.map": "/MedBenDakkoum/Task-Manager/static/css/main.92054059.css.map",
+    "main.5d080d46.js.map": "/MedBenDakkoum/Task-Manager/static/js/main.5d080d46.js.map",
+    "453.a53b11f0.chunk.js.map": "/MedBenDakkoum/Task-Manager/static/js/453.a53b11f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92054059.css",
-    "static/js/main.d9bd717a.js"
+    "static/js/main.5d080d46.js"
   ]
 }
