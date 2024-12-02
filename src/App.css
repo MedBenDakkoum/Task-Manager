@@ -1,5 +1,5 @@
 .App {
-  max-width: 600px; /* Keep the max-width you provided */
+  max-width: 600px;
   margin: 0 auto;
   padding: 20px;
   background-color: #f4f4f9;
@@ -43,14 +43,14 @@ li button:hover {
 }
 
 li {
+  display: flex;
+  align-items: center;
   padding: 12px;
-  border: 1px solid #ddd;
+  border: 1px, solid #ddd;
   border-radius: 5px;
   background-color: #fff;
   margin-bottom: 10px;
   box-shadow: 0 2px 4px rgb(0, 0, 0, 0.1);
-  overflow-wrap: break-word; /* Ensure long words break */
-  word-wrap: break-word; /* Ensure compatibility */
 }
 
 input[type="text"] {
@@ -73,13 +73,4 @@ input[type="checkbox"] {
 
 div {
   margin-bottom: 40px;
-}
-
-/* Added styles for task text */
-li span {
-  flex-grow: 1; /* Allow the text to take up remaining space */
-  white-space: normal; /* Allow the text to wrap to a new line */
-  overflow-wrap: break-word; /* Ensure long words break */
-  word-wrap: break-word; /* Ensure compatibility */
-  margin-right: 10px; /* Add space between text and the button */
 }
