@@ -5,7 +5,7 @@ A simple and intuitive **React Task Manager Application** that allows users to m
 ## Live Demo
 
 Check out the live demo of the application:  
-[Task Manager Live Demo](https://MedBenDakkoum.github.io/task-manager)
+[Task Manager Live Demo](https://medbendakkoum.github.io/Task-Manager/)
 
 ## Features
 
@@ -33,7 +33,7 @@ Follow these instructions to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MedBenDakkoum/task-manager.git
+   git clone https://github.com/MedBenDakkoum/Task-Manager.git
    ```
 2. Navigate to the project directory:
    ```bash
