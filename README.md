@@ -20,6 +20,10 @@ Check out the live demo of the application:
 - **LocalStorage**: For persisting tasks across page refreshes.
 - **GitHub Pages**: For hosting and deploying the application.
 
+## Screenshot
+
+![Task Manager Screenshot](./Task-Manager.png)
+
 ## Getting Started
 
 Follow these instructions to run the project locally:
